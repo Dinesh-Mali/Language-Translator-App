@@ -15,3 +15,5 @@ Translate any text from a particular language to other language by using the IBM
 4) The translated text is sent in "JSON" format, which is to be flattened and display only the translated text.
 
 5) Finally diplay the text on UI. 
+
+## Note - I am working on to add the Complete end-to-end description for this project. Please stay tuned!!
